@@ -31,3 +31,12 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to try it 
 <img width="1512" alt="harbour-2" src="https://github.com/skyflaren/harbour/assets/45515570/2a3cad21-cf90-4ae2-a0a4-812e52b65d5d">
 <img width="1512" alt="harbour-3" src="https://github.com/skyflaren/harbour/assets/45515570/6ad54f2c-fcb4-417c-85a8-a0d79a148547">
 <img width="1512" alt="harbour-4" src="https://github.com/skyflaren/harbour/assets/45515570/4a14f5ce-9acb-484a-816c-b9dfee2e306a">
+
+---
+
+## Authors
+
+- [Kenneth Ruan](https://github.com/KennethRuan)
+- [Justin Lu](https://github.com/skyflaren)
+- [Roseanna Liang](https://github.com/ro0sy)
+- [Nicole Han](https://github.com/nicoella)
